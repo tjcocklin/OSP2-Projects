@@ -1,2 +1,2 @@
 #OSP2-Projects
-This respository contains Projects that implement modules of the OSP2 simulator.
+This Project implements ThreadCB.java, and TimerInterruptHandler.java
